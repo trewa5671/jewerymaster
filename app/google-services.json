@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "193476905559",
+    "firebase_url": "https://jewelrytest-c6963-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "jewelrytest-c6963",
+    "storage_bucket": "jewelrytest-c6963.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193476905559:android:e0038d338d7f2e67b2f112",
+        "android_client_info": {
+          "package_name": "com.example.jewelertest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgLKwtIe83PhVkfxzXkBu2EOhEuoXiHbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193476905559:android:454c111ba68acf7eb2f112",
+        "android_client_info": {
+          "package_name": "com.example.jewelrymaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgLKwtIe83PhVkfxzXkBu2EOhEuoXiHbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
