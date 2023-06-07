@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://jewelrytest-c6963-default-rtdb.europe-west1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">193476905559</string>
+    <string name="google_api_key" translatable="false">AIzaSyCgLKwtIe83PhVkfxzXkBu2EOhEuoXiHbo</string>
+    <string name="google_app_id" translatable="false">1:193476905559:android:454c111ba68acf7eb2f112</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCgLKwtIe83PhVkfxzXkBu2EOhEuoXiHbo</string>
+    <string name="google_storage_bucket" translatable="false">jewelrytest-c6963.appspot.com</string>
+    <string name="project_id" translatable="false">jewelrytest-c6963</string>
+</resources>

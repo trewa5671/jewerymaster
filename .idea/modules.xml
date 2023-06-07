@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JewelryMaster.iml" filepath="$PROJECT_DIR$/.idea/modules/JewelryMaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/JewelryMaster.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/JewelryMaster.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/JewelryMaster.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/JewelryMaster.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/JewelryMaster.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/JewelryMaster.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/JewelryMaster.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/JewelryMaster.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

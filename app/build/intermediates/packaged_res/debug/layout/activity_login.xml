@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".LoginActivity"
+    android:background="@color/backg">
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="379dp"
+        android:layout_height="60dp"
+        android:layout_above="@+id/editTextEmail"
+        android:layout_marginBottom="24dp"
+        app:fontFamily="@font/bold_italic"
+        android:text="Jewelry Master"
+        android:textAlignment="center"
+        android:textSize="35sp" />
+
+    <EditText
+        android:id="@+id/editTextEmail"
+        android:layout_width="379dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/editTextPassword"
+        android:layout_marginBottom="14dp"
+        android:hint="Email"
+        android:fontFamily="@font/semi_bold"
+        android:inputType="textEmailAddress"
+        />
+
+    <EditText
+        android:id="@+id/editTextPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/buttonLogin"
+        android:layout_marginBottom="15dp"
+        android:hint="Пароль"
+        android:inputType="textPassword"
+        android:fontFamily="@font/semi_bold"/>
+
+    <Button
+        android:id="@+id/buttonLogin"
+        android:layout_width="134dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textViewCreateAccount"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="130dp"
+        android:layout_marginEnd="131dp"
+        android:layout_marginBottom="13dp"
+        android:backgroundTint="@color/but"
+        android:text="Войти"
+        android:fontFamily="@font/semi_bold" />
+
+    <TextView
+        android:id="@+id/textViewCreateAccount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="357dp"
+        android:text="Создать аккаунт"
+        android:textAlignment="center"
+        android:fontFamily="@font/semi_bold" />
+
+</RelativeLayout>

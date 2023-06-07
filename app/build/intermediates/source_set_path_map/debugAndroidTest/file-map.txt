@@ -1,0 +1,6 @@
+com.example.jewelrymaster.test.app-annotation-experimental-1.3.0-0 C:\Users\aevdo\.gradle\caches\transforms-3\92958871dc9111d04192125c2f5a62ca\transformed\annotation-experimental-1.3.0\res
+com.example.jewelrymaster.test.app-core-1.5.0-1 C:\Users\aevdo\.gradle\caches\transforms-3\ddfee9cf7028f2410f01a64fc4739834\transformed\core-1.5.0\res
+com.example.jewelrymaster.test.app-androidTest-2 C:\Users\aevdo\AndroidStudioProjects\JewelryMaster\app\build\generated\res\resValues\androidTest\debug
+com.example.jewelrymaster.test.app-mergeDebugAndroidTestResources-3 C:\Users\aevdo\AndroidStudioProjects\JewelryMaster\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.jewelrymaster.test.app-mergeDebugAndroidTestResources-4 C:\Users\aevdo\AndroidStudioProjects\JewelryMaster\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.jewelrymaster.test.app-merged_res-5 C:\Users\aevdo\AndroidStudioProjects\JewelryMaster\app\build\intermediates\merged_res\debugAndroidTest

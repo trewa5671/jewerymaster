@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/backg"
+    tools:context=".RegisterActivity"
+    >
+
+    <TextView
+        android:layout_width="278dp"
+        android:layout_height="54dp"
+        android:layout_above="@+id/editTextEmail"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="75dp"
+        android:layout_marginEnd="74dp"
+        android:layout_marginBottom="34dp"
+        android:fontFamily="@font/semi_bold"
+        android:text="Регистрация"
+        android:textAlignment="center"
+        android:textSize="30sp"/>
+
+    <EditText
+        android:id="@+id/editTextEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/editTextPassword"
+        android:layout_marginBottom="31dp"
+        android:fontFamily="@font/semi_bold"
+        android:hint="Email"
+        android:inputType="textEmailAddress" />
+
+    <EditText
+        android:id="@+id/editTextPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/buttonRegister"
+        android:layout_marginBottom="41dp"
+        android:fontFamily="@font/semi_bold"
+        android:hint="Пароль"
+        android:inputType="textPassword" />
+
+    <Button
+        android:id="@+id/buttonRegister"
+        android:layout_width="379dp"
+        android:layout_height="61dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="335dp"
+        android:backgroundTint="@color/but"
+        android:fontFamily="@font/semi_bold"
+        android:text="Зарегистрироваться" />
+
+</RelativeLayout>
